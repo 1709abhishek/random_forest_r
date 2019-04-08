@@ -1,4 +1,4 @@
-setwd('C:/Users/Chakraborty Sandeep/Desktop/My Douments/coaching/R/ML')
+setwd('')
 #Load data into R
 wine  <- read.csv("winequality-white.csv", stringsAsFactors = FALSE)
 
